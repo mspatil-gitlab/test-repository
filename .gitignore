@@ -1,0 +1,6 @@
+# Ignore video files
+*.mp4
+
+# Ignore Recording folders
+Recording/
+**/Recording/
