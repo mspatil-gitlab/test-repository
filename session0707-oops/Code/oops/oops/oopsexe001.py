@@ -18,11 +18,16 @@ class employee :
 
         
 l1 = employee()
-l1.create_employee(101, "Harish", "Mysore", 25000, "A", "Manager")
-        # print("Employee information - > :{l1}")
+l2 = employee()
+
+
+l1.create_employee(101, "Harish", "Mysore", 25000,"A", "Manager")
+l2.create_employee(102,"suresh", "banglore", 30000,"B", "Developer")
+
 l1.display_employee()
-   
-l1.display_employee()
+l2.display_employee()
+
+
 
 
 
