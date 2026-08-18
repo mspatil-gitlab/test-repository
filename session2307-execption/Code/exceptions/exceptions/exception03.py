@@ -11,8 +11,9 @@ except TypeError as ex:
     print(ex)
 '''
 
-nums = [1, 2, 3, 4, 5]
+
 try:
+    nums = [1, 2, 3, 4, 5]
     print(nums[5])
 except IndexError as ex:
     print(ex)

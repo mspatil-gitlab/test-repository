@@ -25,7 +25,7 @@ try:
     
     # 2. To append to the end of the file, we write. Since we read to the end,
     # the cursor is already at the end of the file.
-    lst = "\nThis is new edited line2"  
+    lst = "\nThis is new edited line"  
     file.write(lst)  # Use write() instead of writelines() for a single string
     
     # 3. To read the file again from the beginning, we must seek back to 0

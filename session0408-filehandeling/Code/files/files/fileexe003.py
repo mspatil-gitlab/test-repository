@@ -55,4 +55,10 @@ except json.JSONDecodeError:
 
 finally:
     if file is not None:
+        #How to append to the jason file
+        data["name"]
         file.close()
+
+        # How to update the json file
+        
+        

@@ -1,0 +1,33 @@
+Polymarphism:
+    Poly: so many
+    Marph: face
+
+    Method Overloading:
+        A method with different parameters(no, type)
+
+    Compile time polymarphism.
+
+Runtime Polymarphism:
+
+1. Create Base (Shape) class , it must be an abstract class.
+
+2. We need to create at-least one abstract method in parent(Shape).
+
+3. Need to create class child classes (Circle, Rectangle, Square) 
+by inherting the base (Shape) class.
+
+4. We must override the abstract method inside the derived classes.
+
+
+    s = Shape()
+
+    s.draw() --> Circle
+
+    s.draw() --> Rectangle
+
+    s.draw() --> Square
+
+
+
+
+

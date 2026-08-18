@@ -1,0 +1,32 @@
+OOPS:- Object oriented programming system.
+
+class:- 
+    Its like a template or blue-print.
+
+    Class should have all the functions only.
+
+    Will be having fields + functions(methods)
+
+    self keyword refers the object.
+
+
+object:
+    An instance of a class.
+
+fields(variables):
+    fields are refered by self.
+
+method(functions):
+    created with always first paramete is self.
+
+functions:
+    1. instance functions (business functions)
+    2. __init__() -- constructor functions
+    3. static functions
+    4. class functions.
+    5. __str__() -- return a string.
+
+The functions starts with __ and ends with __ are called dunder functions.
+
+    
+

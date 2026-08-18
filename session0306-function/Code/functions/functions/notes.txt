@@ -1,0 +1,26 @@
+function: named way to a specific code.
+1. functions name
+2. function body
+
+def <function-name>([parameters/arguments]):
+    code
+
+3. function's calling
+
+4. function's parameters(arguments):
+    1. actual parameters
+        parameters at function call.
+
+    2. formal parameters
+        parameters at function's definition.
+
+    when you call the function, the values of actual parameters
+    will be copied to formal parameters.
+
+5. types of functions:
+    1. simple function
+        in the code of the function there is no keyword return is used.
+
+    2. return type function
+        in the code of the function there is keyword return is used.
+

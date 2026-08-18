@@ -1,0 +1,8 @@
+OOPS:- Object oriented programming system.
+
+class:- 
+    Its like a template or blue-print.
+
+object:
+    An instance of a class.
+

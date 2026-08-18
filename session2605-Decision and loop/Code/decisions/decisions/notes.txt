@@ -1,0 +1,72 @@
+Operators in Python
+1. Arithmetic Operators
++, -, *, /, % (remaindor) , // (quotient), **
+
+7 / 2 = 3.5
+7 % 2 = 1
+7 // 2 = 3
+
+2. Comparision Operators
+>, <, >=, <=, ==, not =
+
+20 > 10 == True
+20 < 10 == False
+20 == 19 == False
+
+3. Logical Operators
+and, or, not
+
+Truth Table
+
+and
+C1          C2     Result
+T           T       T
+T           F       F
+F           T       F
+F           F       F
+
+or
+C1          C2     Result
+T           T       T
+T           F       T
+F           T       T
+F           F       F
+
+not
+C      not C
+T       F
+F       T
+
+
+Condition?
+    checking 
+
+    n1 = 20
+    n2 = 10
+
+    n1 > n2 == True (20 > 10)
+    n1 < n2 == False (20 < 10)
+
+Programming Constructs
+
+1. Decision Constructs
+    1. if
+        if condition:
+            process
+        
+        if condition is True: execution gets inside the if and 'process'
+        will be executing.
+
+        if condition is False: nothing will be executing.
+
+
+    2. if else
+
+    3. if elif
+    
+2. Looping Constructs
+    1. while
+
+    2. for
+
+    3. for each
